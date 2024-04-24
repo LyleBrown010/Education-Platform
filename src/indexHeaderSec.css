@@ -1,0 +1,8 @@
+/*Header*/
+.header {
+  height: 80vh;
+}
+.header-img {
+  max-width: 600px;
+  min-width: 200px;
+}
