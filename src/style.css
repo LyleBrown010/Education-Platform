@@ -164,10 +164,11 @@ form .btn {
 /*Categories Section*/
 .categories-container {
   flex-wrap: wrap;
-  gap: 50px 10px;
+  gap: 50px 50px;
 }
 .categories-container .card {
   max-width: 500px;
+  width: 50%;
   min-width: 350px;
   transition: var(--transition);
 }
